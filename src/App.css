@@ -1,1 +1,16 @@
 /* Add your custom css here */
+
+.mortgage-title{
+    align-items: center;
+    text-align: center;
+}
+
+
+.input_div{
+    flex-direction: column;
+    gap:8px;
+    align-items:center;
+    display:flex;
+    justify-content: center;
+    padding-top: 20px;
+}
